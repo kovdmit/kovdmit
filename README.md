@@ -1,4 +1,6 @@
-### Hi there 👋
+### Всем привет! Рад вас здесь видеть 😊
+
+В настоящий момент я разрабатываю веб-сайты на фреймворке Laravel.
 
 <!--
 **kovdmit/kovdmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
