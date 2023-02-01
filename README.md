@@ -2,7 +2,7 @@
 
 В настоящий момент я занимаюсь разработкой веб-сайтов на фреймворке Laravel.
 
-![codewars](https://www.codewars.com/users/kovdmit/badges/micro)
+![codewars](https://www.codewars.com/users/kovdmit/badges/small)
 
 <!--
 **kovdmit/kovdmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
